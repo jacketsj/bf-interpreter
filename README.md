@@ -1,4 +1,4 @@
-# bf-interpreter
+# BF Interpreter
 An interpreter for BF written in Racket
 
 ## Description
